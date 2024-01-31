@@ -43,6 +43,6 @@ window.addEventListener('scroll', () => {
     raindrop7.style.top = `${val * 0.8}px`
 })
 
-document.getElementById("goback").addEventListener("click", function () {
-    window.location.href = "../index.html";
-  });
+// document.getElementById("goback").addEventListener("click", function () {
+//     window.location.href = "../index.html";
+//   });
