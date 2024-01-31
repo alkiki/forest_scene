@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-#goback{
+/* #goback{
     position: absolute;
     top: 10px;
     left: 10px;
@@ -21,7 +21,7 @@
 
 #goback:hover{
     background-color: lightgoldenrodyellow;
-}
+} */
 
 body{
     background: #fff;
